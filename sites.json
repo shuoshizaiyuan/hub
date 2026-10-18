@@ -50,6 +50,15 @@
       "tag": "入口",
       "color": "#64748b",
       "added": "2026-10-19"
+    },
+    {
+      "id": "hub-smoketest",
+      "name": "Smoke Test Site - 测试",
+      "url": "https://shuoshizaiyuan.github.io/hub-smoketest/",
+      "desc": "Smoke Test Site - 测试",
+      "tag": "自动同步",
+      "color": "#22d3ee",
+      "added": "2026-10-19"
     }
   ]
 }
