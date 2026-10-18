@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "updated": "2026-10-19",
+  "hub": {
+    "title": "我的站点台",
+    "subtitle": "全部 GitHub Pages 站点统一入口 · 一点直达"
+  },
+  "sites": [
+    {
+      "id": "kaoyan-vocab",
+      "name": "考研单词练习",
+      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/",
+      "desc": "考研英语单词交互练习门户，按年份分页面，自测与标记",
+      "tag": "考研 · 英语",
+      "color": "#3b82f6",
+      "added": "2026-10-19"
+    },
+    {
+      "id": "guowen50",
+      "name": "古诗文五十篇",
+      "url": "https://shuoshizaiyuan.github.io/guowen50/",
+      "desc": "中国古代诗文五十篇 · 全篇 · 批注 · 赏析 · 双栏对照翻译",
+      "tag": "国学 · 诗文",
+      "color": "#f59e0b",
+      "added": "2026-10-19"
+    },
+    {
+      "id": "foxue",
+      "name": "佛学知识台",
+      "url": "https://shuoshizaiyuan.github.io/foxue/",
+      "desc": "佛学知识台 · 瑜伽师地论，结构与条目化阅读",
+      "tag": "佛学",
+      "color": "#a855f7",
+      "added": "2026-10-19"
+    },
+    {
+      "id": "study-log",
+      "name": "学习记录",
+      "url": "https://shuoshizaiyuan.github.io/study-log/",
+      "desc": "日常学习记录与进度留存",
+      "tag": "记录",
+      "color": "#10b981",
+      "added": "2026-10-19"
+    },
+    {
+      "id": "home",
+      "name": "根域入口",
+      "url": "https://shuoshizaiyuan.github.io/",
+      "desc": "账号根域名入口，当前自动跳转至考研单词练习门户",
+      "tag": "入口",
+      "color": "#64748b",
+      "added": "2026-10-19"
+    }
+  ]
+}
