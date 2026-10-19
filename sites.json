@@ -8,11 +8,11 @@
   "sites": [
     {
       "id": "kaoyan-vocab",
-      "name": "考研单词练习",
+      "name": "其他站点集合",
       "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/",
-      "desc": "考研英语单词交互练习门户，按年份分页面，自测与标记",
-      "tag": "考研 · 英语",
-      "color": "#3b82f6",
+      "desc": "全科目轻量化小工具总门户：单词速刷等，持续挂载",
+      "tag": "全科目 · 总门户",
+      "color": "#22d3ee",
       "added": "2026-10-19"
     },
     {
