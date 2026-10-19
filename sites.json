@@ -8,10 +8,10 @@
   "sites": [
     {
       "id": "kaoyan-vocab",
-      "name": "其他站点集合",
-      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/",
-      "desc": "全科目轻量化小工具总门户：单词速刷等，持续挂载",
-      "tag": "全科目 · 总门户",
+      "name": "考研单词练习",
+      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/kaoyan-articles.html/",
+      "desc": "英语一阅读理解 · 各年份单词交互练习（原门户，第一位恢复）",
+      "tag": "考研 · 英语",
       "color": "#22d3ee",
       "added": "2026-10-19"
     },
