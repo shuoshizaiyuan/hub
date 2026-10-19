@@ -9,10 +9,10 @@
     {
       "id": "kaoyan-vocab",
       "name": "考研单词练习",
-      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/kaoyan-articles.html/",
-      "desc": "英语一阅读理解 · 各年份单词交互练习（原门户，第一位恢复）",
+      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/reading/",
+      "desc": "英语一阅读理解 · 各年份单词交互练习（原门户）",
       "tag": "考研 · 英语",
-      "color": "#22d3ee",
+      "color": "#ec4899",
       "added": "2026-10-19"
     },
     {
