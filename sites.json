@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-11-06",
   "hub": {
     "title": "我的站点台",
     "subtitle": "全部 GitHub Pages 站点统一入口 · 一点直达"
@@ -9,8 +9,8 @@
     {
       "id": "kaoyan-vocab",
       "name": "考研单词练习",
-      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/reading/",
-      "desc": "英语一阅读理解 · 各年份单词交互练习（原门户）",
+      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/",
+      "desc": "英语一阅读理解 · 各年份单词交互练习（正门 · 2012–2020）",
       "tag": "考研 · 英语",
       "color": "#ec4899",
       "added": "2026-10-19"
@@ -54,7 +54,7 @@
     {
       "id": "site-collection",
       "name": "其他站点集合",
-      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/",
+      "url": "https://shuoshizaiyuan.github.io/kaoyan-vocab/tools/",
       "desc": "全科目轻量化小工具总门户：单词速刷等，持续挂载",
       "tag": "全科目 · 总门户",
       "color": "#22d3ee",
