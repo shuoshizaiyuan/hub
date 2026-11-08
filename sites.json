@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "hub": {
     "title": "我的站点台",
     "subtitle": "全部 GitHub Pages 站点统一入口 · 一点直达"
@@ -14,6 +14,15 @@
       "tag": "考研 · 英语",
       "color": "#ec4899",
       "added": "2026-10-19"
+    },
+    {
+      "id": "kaoyan-annotate",
+      "name": "批注复盘站",
+      "url": "https://shuoshizaiyuan.github.io/kaoyan-annotate/",
+      "desc": "英语一新题型 2013–2026 全卷交互批注：划线（该读句 / 对应词 / 陷阱）· 逐题批注思考 · 作答判分 · 全站云同步",
+      "tag": "考研 · 英语",
+      "color": "#ef4444",
+      "added": "2026-11-08"
     },
     {
       "id": "guowen50",
