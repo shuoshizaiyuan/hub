@@ -26,19 +26,19 @@
     },
     {
       "id": "guowen50",
-      "name": "古诗文五十篇",
+      "name": "古诗文一百篇",
       "url": "https://shuoshizaiyuan.github.io/guowen50/",
-      "desc": "中国古代诗文五十篇 · 全篇 · 批注 · 赏析 · 双栏对照翻译",
+      "desc": "中国古代诗文一百篇 · 全篇 · 批注 · 赏析 · 双栏对照翻译",
       "tag": "国学 · 诗文",
       "color": "#f59e0b",
       "added": "2026-10-19"
     },
     {
       "id": "foxue",
-      "name": "佛学知识台",
+      "name": "哲学知识台",
       "url": "https://shuoshizaiyuan.github.io/foxue/",
-      "desc": "佛学知识台 · 瑜伽师地论，结构与条目化阅读",
-      "tag": "佛学",
+      "desc": "哲学知识台 · 佛经瑜伽师地论与道经修心八篇 · 原文 / 读音 / 义理批注",
+      "tag": "哲学 · 经典",
       "color": "#a855f7",
       "added": "2026-10-19"
     },
